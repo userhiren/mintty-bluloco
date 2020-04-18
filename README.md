@@ -1,10 +1,10 @@
 # BLuloco Mintty Theme
 
-This an adaptation of the bluloco-light and blulogo-dark VS code themes developed by (Umut Topuzoğlu)[https://github.com/uloco] for the Mintty RC. The theme has an element color scheme that has been careful blended into the light and dark background schemes.
-
-## Screenshots
+This an adaptation of the bluloco-light and blulogo-dark VS code themes developed by [Umut Topuzoğlu](https://github.com/uloco) for the Mintty RC. The theme has an element color scheme that has been careful blended into the light and dark background schemes.
 
 ## Color Palette (Light Theme)
+
+![bluloco-theme-light](./screenshots/bluloco-theme-light.png?raw=true "Bluloco Light Theme")
 
 | Color                                              | ANSI Identifier   | HEX     | RBG          |
 | -------------------------------------------------- |------------------ |-------- | ------------ |
@@ -30,6 +30,8 @@ This an adaptation of the bluloco-light and blulogo-dark VS code themes develope
 
 ## Color Palette (Dark Theme)
 
+![bluloco-theme-dark](./screenshots/bluloco-theme-dark.png?raw=true "Bluloco Dark Theme")
+
 | Color                                              | ANSI Identifier   | HEX     | RBG          |
 | -------------------------------------------------- |------------------ |-------- | ------------ |
 | ![#4a505d](https://placehold.it/35/4a505d/?text=+) | ansiBlack         | #4a505d | 74,80,93     |
@@ -51,8 +53,3 @@ This an adaptation of the bluloco-light and blulogo-dark VS code themes develope
 | ![#282c34](https://placehold.it/35/282c34/?text=+) | background        | #282c34 | 40,44,52     |
 | ![#abb2bf](https://placehold.it/35/abb2bf/?text=+) | foreground        | #abb2bf | 171,178,191  |
 | ![#ffcc00](https://placehold.it/35/ffcc00/?text=+) | cursor            | #ffcc00 | 255,204,0    |
-
-## Installation Steps
-
-## Future Enhancements
-
