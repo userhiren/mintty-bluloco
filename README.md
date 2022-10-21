@@ -28,8 +28,6 @@ This an adaptation of the bluloco-light and blulogo-dark VS code themes develope
 | ![#383a42](https://fakeimg.pl/35/383a42/?text=+) | foreground        | #383a42 | 56,58,66     |
 | ![#f31459](https://fakeimg.pl/35/f31459/?text=+) | cursor            | #f31459 | 243,20,89    |
 
-![#282c34](https://fakeimg.pl/35/282c34/?text=+)
-
 ## Color Palette (Dark Theme)
 
 ![bluloco-theme-dark](./screenshots/bluloco-theme-dark.png?raw=true "Bluloco Dark Theme")
